@@ -1,4 +1,6 @@
 # 0402GitDemo
 VS integration with GitHub
 
-# MY REAME
+# MY README
+# 
+# My first integration with GitHub.
